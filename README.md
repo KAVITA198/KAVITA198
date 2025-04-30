@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Kavita Kumari, and i am full stack java developer.<br>My technical skills are Java, Javascipt, Mysql, Html, Css, React Js.<br>
+Hi I am Kavita Kumari, and i am full stack java developer.<br>My technical skills are Java, Pyjton, Javascipt, Mysql, Html, Css, React Js.<br>
 
 
 ## 🌐 Socials:
